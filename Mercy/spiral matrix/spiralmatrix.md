@@ -1,6 +1,6 @@
 # Documentation
 
-## Print Bracket Number
+## Spiral Matrix
 
 <a><img src= "https://img.shields.io/badge/-Amazon-navy" height="25" >&nbsp;&nbsp;<img src= "https://img.shields.io/badge/-Adobe-blue" height="25">&nbsp;&nbsp;<img src= "https://img.shields.io/badge/-Oracle-navy" height="25">&nbsp;&nbsp;<img src= "https://img.shields.io/badge/-Paytm-navy" height="25">&nbsp;&nbsp;<img src= "https://img.shields.io/badge/-Microsoft-navy" height="25">&nbsp;&nbsp;<img src= "https://img.shields.io/badge/-Snapdeal-Yellow" height="25">&nbsp;&nbsp;<img src= "https://img.shields.io/badge/-Leetcode-navy" >&nbsp;&nbsp;<img src= "https://img.shields.io/badge/-geeksforgeeks-violet" height="25"><img src= "https://img.shields.io/badge/-Interviewbit-purple" height="25">&nbsp;&nbsp;
 &nbsp;&nbsp;<img src= "https://img.shields.io/badge/-CPP-red">&nbsp;&nbsp;<img src= "https://img.shields.io/badge/-Python-brightgreen"></a>
